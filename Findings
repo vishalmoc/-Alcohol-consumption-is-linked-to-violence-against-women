@@ -1,0 +1,19 @@
+Key Findings
+🔴 1. Alcohol Consumption is Strongly Linked to Domestic Violence
+More men consuming alcohol → Higher domestic violence cases
+Spousal Violence (%) and Physical Violence During Pregnancy (%) are the strongest predictors
+🟡 2. Some Factors Were Not Useful for Prediction
+Sexual Violence (%) and Women’s Bank Account (%) did NOT strongly impact men’s alcohol use
+Female Education (%) was dropped due to high correlation
+🟢 3. Best Model for Prediction
+Model	Accuracy	Insights Provided
+Linear Regression	Good	Best for understanding statistical significance
+Decision Tree	Average	Can capture non-linearity but may overfit
+Random Forest	Best	Most accurate predictions, avoids overfitting
+Conclusion & Recommendations
+✅ Alcohol Control Policies Can Help Reduce Domestic Violence
+Awareness programs and alcohol restrictions may lower violence
+Support for pregnant women is crucial (as physical violence during pregnancy is a key risk factor)
+✅ Financial & Educational Empowerment Alone Won’t Solve the Issue
+Women’s financial independence (bank accounts) did NOT directly impact alcohol-related violence
+Education is important, but its effect on alcohol-related violence is indirect
